@@ -33,6 +33,6 @@ GOTO :end
 
 ECHO The source file is invalid.
 
-PAUSE
+TIMEOUT 5
 
 :end
